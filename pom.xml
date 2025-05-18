@@ -11,8 +11,8 @@
 	<groupId>com.example</groupId>
 	<artifactId>estoque-sistema</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
-	<description>Demo project for Spring Boot</description>
+	<name>estoque</name>
+	<description>Estoque para gerenciamento de um restaurante</description>
 	<url/>
 	<licenses>
 		<license/>
